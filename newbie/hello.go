@@ -25,4 +25,7 @@ func main(){
 	fmt.Println(f)
 	h:="Short"
 	fmt.Println(h)
+
+	var h string="testeo"
+	fmt.Println(h)
 }
